@@ -1,4 +1,4 @@
-const OFFICIAL_DOMAIN = "harnuma9.github.io";
+const OFFICIAL_DOMAIN = "harnumaix.github.io";
 
 const WALLETS = {
     btc: { name: 'Bitcoin', symbol: 'BTC', icon: 'fa-brands fa-bitcoin', addr: 'bc1q5304udm5pwgemd70wgklqk8nm44lxkkguzd65v', id: 'bitcoin', scheme: 'bitcoin', param: 'amount', chain: 'bitcoin', token: null },
