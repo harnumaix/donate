@@ -1,4 +1,4 @@
-const OFFICIAL_DOMAIN = "harnuma9.github.io";
+const OFFICIAL_DOMAIN = "harnumaix.github.io";
 
 const WALLETS = {
     btc: { name: 'Bitcoin', symbol: 'BTC', icon: 'fa-brands fa-bitcoin', addr: 'bc1q5304udm5pwgemd70wgklqk8nm44lxkkguzd65v', id: 'bitcoin', scheme: 'bitcoin', param: 'amount', chain: 'bitcoin', token: null },
@@ -167,7 +167,7 @@ function toggleTheme() {
 }
 
 async function fetchContributors() {
-    const usernames = ['harnuma9']; 
+    const usernames = ['harnumaix']; 
     const listContainer = document.getElementById('contributor-list');
     const cardSection = document.getElementById('contributor-card');
     listContainer.innerHTML = '';
